@@ -24,3 +24,13 @@ data = pd.read_csv('penguins copy.csv')
 
 # We use a requirements.txt file to specify the packages and version to download for a specific task, ensuring we only download what we need. It also makes tasks easily reproducible.
 # %%
+# New Project Recipe:
+
+# 1) Make a new github repository for the project
+# 2) Create a codespace from the repo
+# 3) Connect to that codespace in your IDE
+# 4) Create a virtual environment
+# 5) Create and install a requirements.txt file with necessary packages
+# 6) Once ready, commmit and push changes to GitHub, making sure not to push the virtual environment folder.
+
+# %%
