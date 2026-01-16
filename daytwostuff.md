@@ -36,7 +36,7 @@ title: Day Two Stuff
 
 ### Extension Management
 1. You've possibilly added a new extension, hopefully it was Data Wrangler, if not search and add it
-2. Find the extension in the extension menu. What do you notice about the extension menu? 
+2. Find the extension in the extension menu. What do you notice about the extension menu?
 3. Review the capabilities, what are three useful elements of Data Wrangler
 
 ### Package managing
