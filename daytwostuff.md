@@ -8,7 +8,7 @@ title: Day Two Stuff
 
 ### FORK the Repo
 1. Go to Github and find the DayTwoStuff repo
-2. Fork it to your GitHub Account
+2. Fork it to` your GitHub Account
 3. Create a new Codespace from the repo
 
 ### Open the Codespace in your local VS Code
